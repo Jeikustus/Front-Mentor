@@ -2,6 +2,6 @@
 
 # 1 QR CODE COMPONENT
 
-    - status <em>done</em>
+    - status DONE
 
 # 2
